@@ -1,7 +1,14 @@
-/***********************To Do List****************************/
-
-
-/***********************Important****************************/
-
-
-/**********************Weekly Tasks**************************/
+section{
+  background-color: #ccc;
+  border-radius: 0.5rem 0.5rem 0 0;
+  padding:3px;
+  width:max-content;
+}
+.task{
+  padding:3px;
+}
+.task-content{
+  min-width:30rem;
+  min-height:10rem;
+  background:white;
+}
